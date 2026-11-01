@@ -1,6 +1,0 @@
-WAIT
-process=2 previous=0 diff=2 warnings=0 state=NORMAL system=STABLE
-process=5 previous=2 diff=3 warnings=1 state=WARNING system=STABLE
-process=4 previous=5 diff=1 warnings=1 state=NORMAL system=STABLE
-process=8 previous=4 diff=4 warnings=2 state=WARNING system=UNSTABLE
-process=3 previous=8 diff=5 warnings=3 state=WARNING system=UNSTABLE
