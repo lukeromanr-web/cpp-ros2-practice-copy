@@ -1,0 +1,1 @@
+![](<Pasted image 20261101034229.png>)![](<Pasted image 20261101035110.png>)![](<Pasted image 20261101035227.png>)
